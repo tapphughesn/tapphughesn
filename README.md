@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently independent and looking for the next chapter in my journey. 
+I'm currently working as a software engineer at WHOOP, Inc.
 
 I have experience with:
 - Fullstack development of web applications
@@ -23,9 +23,8 @@ I have experience with:
 - Data Analysis and Statistics/Mathematics
 - Software for the healthcare industry
 
-In the meantime, I'm working on:
+Some projects I'm working on:
 - My blog: [nicholastapphughes.com](https://www.nicholastapphughes.com) and associated projects
-- Job Applications 🙂
 - Learning: Distributed Systems, the Rust programming language, ROCm programming, and more
 
 Fun fact about me: I enjoy playing low-stakes poker (most often Texas Hold'em) with friends. 
